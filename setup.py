@@ -14,7 +14,7 @@ except ImportError:
 
 
 NAME = 'yamlargparse'
-URL = 'https://omni-us.github.io/yamlargparse/'
+URL = 'https://omni-us.github.io/jsonargparse/'
 LICENSE = 'MIT'
 AUTHOR = 'Mauricio Villegas'
 AUTHOR_EMAIL = 'mauricio@omnius.com'
