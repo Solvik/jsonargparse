@@ -22,7 +22,7 @@ except Exception as ex:
     jsonschema = jsonvalidator = ex
 
 
-__version__ = '1.31.0'
+__version__ = '1.31.1'
 
 
 class ParserError(Exception):
